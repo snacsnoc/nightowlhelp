@@ -1,0 +1,7 @@
+flask
+rq
+requests
+redis
+twilio
+waitress
+gunicorn
